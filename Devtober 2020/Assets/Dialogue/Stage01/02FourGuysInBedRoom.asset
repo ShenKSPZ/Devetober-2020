@@ -145,7 +145,7 @@ MonoBehaviour:
   - 'Before you start talking about<w=0.1> your consipracy theory<w=0.1> about ship
     servent, '
   - 'Why don'' we just try to ask what it can offer to us? '
-  curIndex: 0
+  curIndex: 1
   IsMax: 1
 --- !u!114 &-5872031563267191102
 MonoBehaviour:
@@ -426,7 +426,7 @@ MonoBehaviour:
   optionNode: {fileID: 0}
   startNode: {fileID: 0}
   waitingNode: {fileID: 0}
-  current: {fileID: -3414345450190588762}
+  current: {fileID: -6427747135315364920}
   DiaPlay: {fileID: 0}
   IsWaiting: 0
 --- !u!114 &547997255134563580

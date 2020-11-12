@@ -50,7 +50,7 @@ MonoBehaviour:
   optionNode: {fileID: 0}
   startNode: {fileID: 0}
   waitingNode: {fileID: 0}
-  current: {fileID: -6374438313886570925}
+  current: {fileID: 8229966538444308086}
   DiaPlay: {fileID: 0}
   IsWaiting: 0
 --- !u!114 &8229966538444308086
